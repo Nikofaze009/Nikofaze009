@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nikofaze009/Nikofaze009/main/images/vinland.jpg" alt="Vinland Saga Banner" width="900"/>
+  <img src="vinland.jpg" alt="Vinland Saga Banner" width="900"/>
 </p>
