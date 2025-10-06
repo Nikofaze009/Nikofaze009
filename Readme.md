@@ -9,8 +9,6 @@
 
 ---
 
----
-
 ## 🌟 About Me
 - 💻 Passionate about **Software Development & Full-Stack Projects**  
 - 🚀 Exploring **AI, Data Structures, Web Development, Cloud Tech**  
