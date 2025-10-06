@@ -7,7 +7,6 @@
 <h1 align="center"> Welcome to My GitHub — I'm Pratham </h1>
 <h3 align="center">Developer | Tech Explorer |</h3>
 
----
 
 ## 🌟 About Me
 - 💻 Passionate about **Software Development & Full-Stack Projects**  
@@ -16,7 +15,6 @@
 - ⚔️ Inspired by **Vinland Saga’s philosophy of growth & resilience**  
 - 🎯 Goal: Build scalable applications & contribute to impactful open-source  
 
----
 
 ## 🛠️ Tech Stack & Skills
 <p align="center">
@@ -27,7 +25,7 @@
   <b>Currently Exploring:</b> Google AI | Advanced Data Structures | Cloud Tech
 </p>
 
----
+
 
 ## 🎥 Vinland Saga Vibes  
 <p align="center">
@@ -40,7 +38,7 @@
   <em>"You have no enemies. No one in this world deserves your hatred." – Thors</em>
 </p>
 
----
+
 
 ## 📊 GitHub Analytics
 <p align="center">
@@ -52,7 +50,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
----
+
 
 ## 🚀 Projects & Highlights
 - 🔹 **⦰ BEYOND BOUNDARIES** – Women’s Safety Website with custom dashboard & QR login  
@@ -60,7 +58,7 @@
 - 🔹 **Plant Disease Detection (Tomato Focused)** using AI/ML  
 - 🔹 Exploring **Google AI & Cloud Integrations**  
 
----
+
 
 ## 🌐 Connect With Me
 <p align="center">
@@ -70,14 +68,14 @@
   <a href="mailto:youremail@example.com"><img src="https://skillicons.dev/icons?i=gmail" width="50"/></a>
 </p>
 
----
+
 
 ## 🐍 Contribution Graph (Snake Animation)
 <p align="center">
   <img src="https://github.com/Pratham/Pratham/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
----
+
 
 ## 🗡️ Final Words
 <p align="center">
