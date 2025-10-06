@@ -5,7 +5,7 @@
 <!-- Profile README for Pratham -->
 
 <h1 align="center"> Welcome to My GitHub — I'm Pratham </h1>
-<h3 align="center">Developer | Tech Explorer | Anime Enthusiast (Vinland Saga)</h3>
+<h3 align="center">Developer | Tech Explorer |</h3>
 
 ---
 
