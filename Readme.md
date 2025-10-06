@@ -38,7 +38,7 @@
 
 ## 🎥 Vinland Saga Vibes  
 <p align="center">
-  <img src="hello.gif" alt="Vinland Saga Banner" width="250"/>
+  <img src="thorkel.gif" alt="Vinland Saga Banner" width="250"/>
   <img src="thors.gif" width="250"/>
   <img src="changes.gif" width="250"/>
 </p>
