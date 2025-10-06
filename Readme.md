@@ -4,7 +4,17 @@
 
 <!-- Profile README for Pratham -->
 
-<h1 align="center"> Welcome to My GitHub — I'm Pratham </h1>
+<h1 align="center" style="animation: typing 4s steps(35, end); overflow: hidden; white-space: nowrap; margin: 0 auto; color: white;">
+  Welcome to My GitHub — I'm Pratham
+</h1>
+
+<style>
+@keyframes typing {
+  from { width: 0; }
+  to { width: 100%; }
+}
+</style>
+
 <h3 align="center">Developer | Tech Explorer |</h3>
 
 
@@ -70,10 +80,8 @@
 
 
 
-## 🐍 Contribution Graph (Snake Animation)
-<p align="center">
-  <img src="https://github.com/Pratham/Pratham/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
+## 🐍 Contribution Graph & Snake Animation
+
 
 
 
