@@ -2,11 +2,14 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"  # Runs every day
   workflow_dispatch:
   push:
     branches:
       - main
+
+permissions:
+  contents: write  # ✅ allows pushing to the output branch
 
 jobs:
   build:
@@ -14,7 +17,9 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false  # prevents token conflicts
 
       - name: Generate snake animation
         uses: Platane/snk@v3
