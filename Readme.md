@@ -38,7 +38,7 @@
 
 ## 🎥 Vinland Saga Vibes  
 <p align="center">
-  <img src="hello.gif" alt="Vinland Saga Banner" width="800"/>
+  <img src="hello.gif" alt="Vinland Saga Banner" width="250"/>
   <img src="https://media.tenor.com/6cVkSMLjdcEAAAAC/vinland-saga-anime.gif" width="250"/>
   <img src="https://media.tenor.com/3N4XHzkwmo8AAAAC/vinland-saga.gif" width="250"/>
 </p>
