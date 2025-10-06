@@ -4,16 +4,9 @@
 
 <!-- Profile README for Pratham -->
 
-<h1 align="center" style="animation: typing 4s steps(35, end); overflow: hidden; white-space: nowrap; margin: 0 auto; color: white;">
-  Welcome to My GitHub — I'm Pratham
-</h1>
-
-<style>
-@keyframes typing {
-  from { width: 0; }
-  to { width: 100%; }
-}
-</style>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub+%E2%80%94+I'm+Pratham" alt="Typing SVG" />
+</div>
 
 <h3 align="center">Developer | Tech Explorer |</h3>
 
@@ -81,6 +74,17 @@
 
 
 ## 🐍 Contribution Graph & Snake Animation
+<p align="center">
+  <img src="https://github.com/Pratham/Pratham/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Pratham/Pratham/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Pratham/Pratham/blob/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/Pratham/Pratham/blob/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 
 
