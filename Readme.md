@@ -85,7 +85,6 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nikofaze009/Nikofaze009/output/snake.svg" />
   </picture>
 </div>
-s
 
 
 
