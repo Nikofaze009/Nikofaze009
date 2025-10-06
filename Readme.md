@@ -74,9 +74,8 @@
 
 
 ## 🐍 Contribution Graph & Snake Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Nikofaze009/Nikofaze009/output/snake.svg" alt="snake animation" />
-</p>
+<img src="https://raw.githubusercontent.com/Nikofaze009/Nikofaze009/output/snake.svg" />
+
 
 <div align="center">
   <picture>
