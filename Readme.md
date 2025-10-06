@@ -9,11 +9,6 @@
 
 ---
 
-<!-- Epic Vinland Saga Banner -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/3f/6f/1d/3f6f1d14f9e4c6c0a7c537fd834a99a1.gif" alt="Vinland Saga Epic" width="900"/>
-</p>
-
 ---
 
 ## 🌟 About Me
